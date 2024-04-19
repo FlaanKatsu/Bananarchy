@@ -4,7 +4,7 @@
 ## for an element system, i was thinking something simple, your element provides just a basic passive, and an ultimate
 
 for example:
-##Devine monkey: 
+## Devine monkey: 
 Passive: increase health by 20 points.
 
 Ultimate: nearby allies gain a 30 point health boost, and regenerate 10 health per second. Lasts 10 seconds.
