@@ -1,0 +1,14 @@
+The game source code goes here (that would be the unity project files,) not the release. This game will release as
+1. A web client
+2. A Linux client (appimage hopefully, it might also release on the AUR)
+3. A Windows client
+
+note:
+There will be no macOS client for the forseeable future as macOS requires an apple deleoper account (100$ subsciption service to have your programs 
+executable on the macOS platform),as well as a mac device that is up to date (apple denies non up to date macs the ability to download 
+required development APIs like Xcode, esseintailly requiring us to purchase a new mac device, and thier subscription service.) 
+Apple's mac devices are also inherently underpowered, unless opting out for their more expensive pro models.
+
+In the future, an android client is planned. 
+(IOS (iPhone and iPad) requires an apple mac device to create the package, and an apple developer subscription; there will be no IOS release.)
+(additional note about IOS: the european union has forced apple to allow users proper developer / user install permisions, a IOS release in the EU is a probablility.)
