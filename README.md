@@ -1,2 +1,2 @@
 # Bananarchy™
-The repository for the source code for the Bananarchy game.
+The repository for the source code for the Bananarchy™ game.
